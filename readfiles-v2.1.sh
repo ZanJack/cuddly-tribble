@@ -67,6 +67,4 @@ do
 	fi
 		echo "######################## Taches $i Execute ###################" >> /tmp/storm.log
 done
-
 echo "######################## END ###################" >> /tmp/storm.log
-
