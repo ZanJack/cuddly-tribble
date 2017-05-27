@@ -20,8 +20,8 @@
 # filter;1;off;pass;test_1ere_ligne;test_2eme_ligne;2;http,ssh;
 
 user=admin
-ip=""
-pw=
+ip="X.X.X.X"
+pw=password
 path_csv=/root/file.csv
 
 if [ -e /tmp/hote ]
